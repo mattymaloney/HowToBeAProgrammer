@@ -1,6 +1,6 @@
 # Learn to Debug
 
-Debugging is the cornerstone of being a programmer. The first meaning of the verb "debug" is to identify and remove errors<sup id="a1">[1](#f1)</sup>, but the meaning that really matters is to see into the execution of a program by examining the program during execution. A programmer that cannot debug effectively is blind.
+Debugging is the cornerstone of being a programmer. The first meaning of the verb "debug" is to identify and remove errors<sup id="a1">[1](#f1)</sup>, but the meaning that really matters is to see into the execution of a program by examining the program during execution. A programmer that cannot debug is effectively blind.
 
 Idealists, those who think design, analysis, complexity theory, and the like are more fundamental than debugging, are not working programmers. The working programmer does not live in an ideal world. Even if you are perfect, you are surrounded by and must interact with code written by major software companies, organizations like GNU, and your colleagues. Most of this code is imperfect and imperfectly documented. Without the ability to gain visibility into the execution of this code, the slightest bump will throw you permanently. Often this visibility can be gained only by experimentation: that is, debugging.
 
